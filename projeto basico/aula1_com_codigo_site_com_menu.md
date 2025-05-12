@@ -1,7 +1,6 @@
 
-# Aula 1 – Estruturação do Site com Menu de Navegação (com código)
+# Aula 1 – Estruturação do Site com Menu de Navegação
 
-🕒 Duração: 40 minutos  
 🎯 Objetivo: Criar a estrutura completa em HTML de um site sobre Python, incluindo um menu de navegação funcional.
 
 ---
